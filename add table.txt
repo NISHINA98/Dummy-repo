@@ -1,0 +1,78 @@
+<table class="table table-bordered table-hover" cellspacing="0" rules="cols" border="1" id="cphContent_ctrlAquiferData_gvAquiferData" style="width:100%;border-collapse:collapse;">
+			<tbody><tr class="gridHeaderStyle">
+				<th align="left" scope="col">Field</th><th align="left" scope="col">GDC Region</th><th align="left" scope="col">Asset</th><th align="left" scope="col">Aquifer strength </th><th align="left" scope="col">Area and or Formation  supported /Aquifer type</th><th align="left" scope="col">Length (m)</th><th align="left" scope="col">Width (m)</th><th align="left" scope="col"> Height (m)</th><th align="left" scope="col">Radius (m)</th><th align="left" scope="col">Radius In (m)</th><th align="left" scope="col">Radius Out (m)</th><th align="left" scope="col">Enchroachment Angle (degrees)</th><th align="left" scope="col">Aquifer Permeability (mD)</th><th align="left" scope="col">Aquifer Porosity (Fraction)</th><th align="left" scope="col">Total Compressibilty (1/kPa)</th><th align="left" scope="col">Aquifer strength (bbl/psi)</th><th align="left" scope="col">Aquifer response time (days)</th><th align="left" scope="col">Aquifer/reservoir ratio</th><th align="left" scope="col">Total Aquifer volume</th><th align="left" scope="col">Qualitative Assessment</th><th align="left" scope="col">Data Source</th><th align="left" scope="col">Document Number</th><th align="left" scope="col">Docment section</th>
+			</tr><tr>
+				<td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label2_0">UFUQ</span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label11_0">Area 1</span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label10_0">Lekhwair</span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label9_0">very week</span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label8_0">Limited</span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label7_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label6_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label5_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label4_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label3_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label25_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label24_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label23_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label22_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label21_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label20_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label19_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label18_0"></span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label13_0"></span>
+                            </td><td align="left">
+
+                                <a onclick="return ShowLongText('Qualitative Assessment', this);" id="cphContent_ctrlAquiferData_gvAquiferData_lbtnQualAssess_0" href="javascript:__doPostBack('ctl00$cphContent$ctrlAquiferData$gvAquiferData$ctl02$lbtnQualAssess','')">The extent of a</a>
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label17_0" class="hidden">The extent of aquifer being less known, the chance of an active edge aquifer support towards the oil production is less likely owing to the clinoform
+geometry and very low permeability of the reservoir units towards the flanks of the field.(UF K-FDP-2009)</span>
+
+                            </td><td align="left">
+                                <a onclick="return ShowLongText('Data Source', this);" id="cphContent_ctrlAquiferData_gvAquiferData_LinkButton2_0" href="javascript:__doPostBack('ctl00$cphContent$ctrlAquiferData$gvAquiferData$ctl02$LinkButton2','')">UF-K-2009 FDP</a>
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label14_0" class="hidden">UF-K-2009 FDP</span>
+                            </td><td align="left">
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label15_0">ONPL09113RE</span>
+                            </td><td align="left">
+                                <a onclick="return ShowLongText('Docment section', this);" id="cphContent_ctrlAquiferData_gvAquiferData_LinkButton1_0" href="javascript:__doPostBack('ctl00$cphContent$ctrlAquiferData$gvAquiferData$ctl02$LinkButton1','')">statment availa</a>
+                                <span id="cphContent_ctrlAquiferData_gvAquiferData_Label16_0" class="hidden">statment available at section 4 &amp; 5.2</span>
+                            </td>
+			</tr>
+		</tbody></table>
+
+
+
+
+
+/************************************************************************************************************//
+<div class="modal-content">
+                    <div id="divDevHead" class="modal-header alert-success">
+                        <button type="button" class="close" data-dismiss="modal">×</button>
+                        <h4 class="modal-title">Qualitative Assessment</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>The extent of aquifer being less known, the chance of an active edge aquifer support towards the oil production is less likely owing to the clinoform
+geometry and very low permeability of the reservoir units towards the flanks of the field.(UF K-FDP-2009)</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
